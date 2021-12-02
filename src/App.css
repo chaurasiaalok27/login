@@ -1,0 +1,10 @@
+.mainContaciner {
+  flex: 1;
+  flex-direction: column;
+}
+.inputContainer {
+  margin-left: 10px;
+}
+button {
+  margin-left: 10px;
+}
